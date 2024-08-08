@@ -61,7 +61,7 @@ const PostModal = ({ data, setModalOpen, setPostModalOpen }: Props) => {
 
   return (
     <div className="fixed inset-0 z-[9] flex items-center justify-center bg-black bg-opacity-15">
-      <div className="flex h-2/3 w-2/3 flex-col overflow-hidden rounded-lg bg-white dark:bg-neutral-700">
+      <div className="flex h-2/3 w-2/3 flex-col rounded-lg bg-white dark:bg-neutral-700">
         <div className="flex h-14 w-full items-center justify-between border-b-2 p-2">
           <div className="flex items-center gap-2">
             <Link
@@ -210,7 +210,7 @@ const PostModal = ({ data, setModalOpen, setPostModalOpen }: Props) => {
 
           <div className="border-l"></div>
 
-          <div className="flex-1 p-2">
+          <div className="flex-1 px-2">
             <div className="flex flex-col gap-2">
               <div className="flex gap-1 border-b">
                 <input
