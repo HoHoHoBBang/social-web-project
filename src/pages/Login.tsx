@@ -35,7 +35,15 @@ const Login = () => {
   return (
     <div className="flex h-dvh w-full items-center justify-center">
       <div className="flex h-2/3 w-1/2 overflow-hidden rounded-3xl border shadow-lg max-sm:h-full max-sm:w-full max-sm:flex-col max-sm:rounded-none">
-        <div className="flex flex-[1.5] items-center justify-center bg-purple-500 max-sm:flex-1">
+        <div className="relative flex flex-[1.5] items-center justify-center bg-purple-500 max-sm:flex-1">
+          <div className="absolute left-5 top-5">
+            <p className="text-sm text-white">
+              TEST ID : <span>test@naver.com / test2@naver.com</span>
+            </p>
+            <p className="text-sm text-white">
+              TEST PW : <span>123123</span>
+            </p>
+          </div>
           <div>
             <p className="text-4xl font-bold text-white">Social App</p>
           </div>
