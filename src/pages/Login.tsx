@@ -36,11 +36,11 @@ const Login = () => {
     <div className="flex h-dvh w-full items-center justify-center">
       <div className="flex h-2/3 w-1/2 overflow-hidden rounded-3xl border shadow-lg max-sm:h-full max-sm:w-full max-sm:flex-col max-sm:rounded-none">
         <div className="relative flex flex-[1.5] items-center justify-center bg-purple-500 max-sm:flex-1">
-          <div className="absolute left-5 top-5">
-            <p className="text-sm text-white">
+          <div className="absolute left-5 top-5 max-sm:top-24 max-sm:z-10">
+            <p className="text-sm text-white max-sm:text-black">
               TEST ID : <span>test@naver.com / test2@naver.com</span>
             </p>
-            <p className="text-sm text-white">
+            <p className="text-sm text-white max-sm:text-black">
               TEST PW : <span>123123</span>
             </p>
           </div>
