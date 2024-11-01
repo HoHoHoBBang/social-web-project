@@ -1,7 +1,7 @@
 ---
 
-<p>Test ID / PW : test@naver.com / 123123</p> <br>
-<p>Test ID / PW : test2@naver.com / 123123</p>
+<p>Test ID / PW : test@naver.com / 123123</p>
+<p>Test ID / PW : test2@naver.com / 123123</p> <br>
 <p><strong>프로젝트: 소셜 미디어 사이트</strong></p>
 <p><strong>프로젝트 개요:</strong></p>
 <ul>
