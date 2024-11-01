@@ -1,8 +1,10 @@
 ---
 
-<p><strong>TEST ID: test@naver.com</strong></p>
-<p><strong>TEST ID: test2@naver.com</strong></p>
-<p><strong>TEST PW: 123123</strong></p>
+<p>TEST ID: test@naver.com</p>
+
+<p>TEST ID: test2@naver.com</p>
+
+<p>TEST PW: 123123</p>
 
 ---
 
