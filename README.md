@@ -1,8 +1,5 @@
 ---
 
-
----
-
 <p>Test ID / PW : <a href="mailto:test@naver.com">test@naver.com</a> / 123123<br>
 Test ID / PW : <a href="mailto:test2@naver.com">test2@naver.com</a> / 123123</p>
 <p><strong>프로젝트: 소셜 미디어 사이트</strong></p>
